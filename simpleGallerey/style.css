@@ -1,0 +1,24 @@
+body {
+  font-family: 'Marmelad', sans-serif;
+}
+.btn {
+  padding: 15px;
+  color: #ffffff;
+  background-color: #3caa3c;
+  border: 1px solid #cccccc;
+  font-family: 'Marmelad', sans-serif;
+  font-size: 1.2em;
+}
+
+#f {
+   display: block;
+}
+#s {
+   display: none;
+}
+#t {
+   display: none;
+}
+#fo {
+   display: none;
+}
