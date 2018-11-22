@@ -1,0 +1,17 @@
+.block {
+  float: left;
+  margin-right: 30px;
+}
+
+.btn {
+  float: left;
+  margin-right: 30px;
+  width: 30px;
+  text-align: center;
+}
+
+.select {
+  padding: 15px;
+  font-family: 'Marmelad', sans-serif;
+  font-size: 15px;
+}
